@@ -1,0 +1,3 @@
+version: 0.1
+component: build                   
+timeoutInSeconds: 10000
